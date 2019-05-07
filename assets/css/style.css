@@ -61,18 +61,18 @@ h1.logo a{
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: uppercase;
-	float:left;
+	float: left;
 	letter-spacing: 0.2em;
-	color:#d8d8d8;
+	color: #d8d8d8;
 }
 
 a.to_nav{
-	display:flex;
+	display: flex;
 	float:right;
 	color: #fff;
 	background: #4e4e4e;
 	padding: 0 10px;
-	font-size:12px;
+	font-size: 12px;
 	line-height: 22px;
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
@@ -127,6 +127,7 @@ footer{
 
 /* media queries*/;
 @media only screen and (min-width: 768px){
+	
 	.wrapper {
 		position: relative;
 		width:768px;
